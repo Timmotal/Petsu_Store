@@ -6,7 +6,11 @@ import FeaturedProducts from '../../components/FeaturedProducts/FeaturedProducts
 
 const home = () => {
   return (
-   
+    <div className="home">
+    
+ 
+ 
+    </div>
   )
 }
 
