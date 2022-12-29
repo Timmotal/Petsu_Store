@@ -5,6 +5,8 @@ import "./Home.scss";
 import FeaturedProducts from '../../components/FeaturedProducts/FeaturedProducts';
 
 const home = () => {
-  
+  return (
+   
+  )
 }
 
