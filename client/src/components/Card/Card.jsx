@@ -11,7 +11,7 @@ const Card = ({ item }) => {
                 <img src={item.img} alt="mainImg" className="mainImg" />
                 <img src={item.img2} alt="secondImg" className="secondImg" />
            </div>  
-            
+           <h2>{item.title}</h2>      
                 
             </div>
         
