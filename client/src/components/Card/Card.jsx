@@ -22,5 +22,5 @@ const Card = ({ item }) => {
   )
 }
 
-
+export default Card
 
