@@ -30,7 +30,10 @@ const Categories = () => {
         </div>
 
         <div className="col col-l">
-            
+            <div className="row">
+             
+                
+                </div>
             </div>
 
            
