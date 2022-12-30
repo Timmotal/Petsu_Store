@@ -49,7 +49,8 @@ const Categories = () => {
                 </div>
             </div>
 
-           
+            <div className="row">     
+            </div>
         </div>
     </div>
   )
