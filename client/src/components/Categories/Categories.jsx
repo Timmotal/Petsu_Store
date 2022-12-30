@@ -39,7 +39,9 @@ const Categories = () => {
                 </button>
                     </div>
                 </div>
-                
+                <div className="col">
+                  
+                    </div>
                 </div>
             </div>
 
