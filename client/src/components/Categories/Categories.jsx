@@ -12,7 +12,10 @@ const Categories = () => {
                     <Link className='link' to="/products/1">Sale</Link>
                 </button>
             </div>
-            <div className="row"></div>
+            <div className="row">
+            <img src="https://images.pexels.com/photos/1372138/pexels-photo-1372138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+              >
+            </div>
         </div>
 
 
