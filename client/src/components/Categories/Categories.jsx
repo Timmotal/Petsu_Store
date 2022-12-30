@@ -29,6 +29,9 @@ const Categories = () => {
             </div>
         </div>
 
+        <div className="col col-l">
+            
+            </div>
 
            
         </div>
