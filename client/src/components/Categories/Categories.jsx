@@ -12,7 +12,7 @@ const Categories = () => {
                     <Link className='link' to="/products/1">Sale</Link>
                 </button>
             </div>
-
+            <div className="row"></div>
         </div>
 
 
