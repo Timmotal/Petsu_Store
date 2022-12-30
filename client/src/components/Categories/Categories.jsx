@@ -20,6 +20,9 @@ const Categories = () => {
             </div>
         </div>
 
+        <div className="col">
+            <div className="row"> </div>
+        </div>
 
 
            
