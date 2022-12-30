@@ -21,7 +21,10 @@ const Categories = () => {
         </div>
 
         <div className="col">
-            <div className="row"> </div>
+            <div className="row">
+            <img src="https://images.pexels.com/photos/12670897/pexels-photo-12670897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+           
+            </div>
         </div>
 
 
