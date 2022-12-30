@@ -5,7 +5,12 @@ import './Card.scss';
 const Card = ({ item }) => {
   return (
     <Link className='link' to={`/product/${item.id}`}>
-     
+        <div className="card">
+           
+            
+                
+            </div>
+        
     </Link>
   )
 }
