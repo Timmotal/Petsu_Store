@@ -49,7 +49,9 @@ const Categories = () => {
                 </div>
             </div>
 
-            <div className="row">     
+            <div className="row">
+            <img src="https://images.pexels.com/photos/5242790/pexels-photo-5242790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+                
             </div>
         </div>
     </div>
