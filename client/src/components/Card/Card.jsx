@@ -8,6 +8,8 @@ const Card = ({ item }) => {
         <div className="card">
             <div className="image">
                 {item.isNew && <span>New Season</span>}
+                <img src={item.img} alt="mainImg" className="mainImg" />
+  
            </div>  
             
                 
