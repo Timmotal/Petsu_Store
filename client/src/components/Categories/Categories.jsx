@@ -5,7 +5,7 @@ import './Categories.scss';
 const Categories = () => {
   return (
   
-
+    </div>
   )
 }
 
