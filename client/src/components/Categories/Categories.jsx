@@ -40,7 +40,7 @@ const Categories = () => {
                     </div>
                 </div>
                 <div className="col">
-                    <div className="row"> 326880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+                    <div className="row"> <img src="https://images.pexels.com/photos/1326880/pexels-photo-1326880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                 <button>
                 </button>
                     </div>
