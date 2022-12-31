@@ -20,7 +20,7 @@ const Contacts = () => {
                 <FacebookIcon />
                 <InstagramIcon />
                 <PinterestIcon />
-          
+                <TwitterIcon />
             </div>
         </div>
     </div>
