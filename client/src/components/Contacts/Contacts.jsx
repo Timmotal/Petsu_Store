@@ -13,7 +13,7 @@ const Contacts = () => {
             <span>be in touch with us:</span>
             <div className="mail">
                 <input type="text" placeholder='Enter Your Email...' />
-             
+                <button>join us</button>
             </div>
           
         </div>
