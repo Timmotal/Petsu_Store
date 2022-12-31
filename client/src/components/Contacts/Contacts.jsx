@@ -7,6 +7,8 @@ import GoogleIcon from "@mui/icons-material/Google";
 import PinterestIcon from "@mui/icons-material/Pinterest";
 
 const Contacts = () => {
-  
+  return (
+ 
+  )
 }
 
