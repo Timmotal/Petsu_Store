@@ -19,7 +19,7 @@ const Contacts = () => {
                 <GoogleIcon />
                 <FacebookIcon />
                 <InstagramIcon />
-               
+                <PinterestIcon />
           
             </div>
         </div>
