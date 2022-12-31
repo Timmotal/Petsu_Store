@@ -16,7 +16,7 @@ const Contacts = () => {
                 <button>join us</button>
             </div>
             <div className="icons">
-           
+                <GoogleIcon />
         
          
                
