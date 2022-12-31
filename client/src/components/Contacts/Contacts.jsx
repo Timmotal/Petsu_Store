@@ -18,7 +18,7 @@ const Contacts = () => {
             <div className="icons">
                 <GoogleIcon />
                 <FacebookIcon />
-         
+                <InstagramIcon />
                
           
             </div>
