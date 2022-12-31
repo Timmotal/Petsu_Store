@@ -10,7 +10,7 @@ const Contacts = () => {
   return (
     <div className="contact">
         <div className="wrapper">
-       
+            <span>be in touch with us:</span>
           
         </div>
     </div>
