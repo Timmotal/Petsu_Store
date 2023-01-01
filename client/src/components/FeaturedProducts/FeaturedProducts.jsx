@@ -52,7 +52,9 @@ const FeaturedProducts = ({ type }) => {
         <div className='featuredProducts'>
             <div className="top">
                 <h1>{type} products</h1>
-                
+                <p>
+                 
+                </p>
             </div>
            
         </div>
