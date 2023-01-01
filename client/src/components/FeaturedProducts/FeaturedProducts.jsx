@@ -69,3 +69,5 @@ const FeaturedProducts = ({ type }) => {
     )
 }
 
+export default FeaturedProducts
+
