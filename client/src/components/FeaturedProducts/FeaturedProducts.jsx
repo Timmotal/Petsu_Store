@@ -22,7 +22,15 @@ const FeaturedProducts = ({ type }) => {
             oldPrice: 210,
             price: 200,
         },
-       
+        {
+            id: 3,
+            img: "https://images.pexels.com/photos/1857375/pexels-photo-1857375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            title: "Cardigan",
+            isNew: true,
+            oldPrice: 310,
+            price: 300,
+        },
+        {
     ]
 
     
