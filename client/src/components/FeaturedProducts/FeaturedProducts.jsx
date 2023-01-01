@@ -59,7 +59,9 @@ const FeaturedProducts = ({ type }) => {
                     Ipsum decided to leave for the far World of Grammar.
                 </p>
             </div>
-           
+            <div className="bottom">
+               
+            </div>
         </div>
 
     )
