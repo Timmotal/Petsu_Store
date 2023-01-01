@@ -4,6 +4,11 @@ import './FeaturedProducts.scss'
 
 const FeaturedProducts = ({ type }) => {
 
-  
+    const data = [
+       
+      
+       
+    ]
+
     
 
