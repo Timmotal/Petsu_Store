@@ -60,7 +60,9 @@ const FeaturedProducts = ({ type }) => {
                 </p>
             </div>
             <div className="bottom">
-               
+                {data.map( item => (
+                
+                ))}
             </div>
         </div>
 
