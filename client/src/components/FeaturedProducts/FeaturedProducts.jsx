@@ -50,7 +50,11 @@ const FeaturedProducts = ({ type }) => {
 
     return (
         <div className='featuredProducts'>
-            
+            <div className="top">
+           
+                
+            </div>
+           
         </div>
 
     )
