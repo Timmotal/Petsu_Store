@@ -14,7 +14,14 @@ const FeaturedProducts = ({ type }) => {
             oldPrice: 110,
             price: 100,
         },
-      
+        {
+            id: 2,
+            img: "https://images.pexels.com/photos/1113554/pexels-photo-1113554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            title: "Coat",
+            isNew: true,
+            oldPrice: 210,
+            price: 200,
+        },
        
     ]
 
