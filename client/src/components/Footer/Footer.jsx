@@ -55,6 +55,7 @@ const Footer = () => {
         <div className="bottom">
             <div className="left">
                 <span className="logo">
+                    Petsu store
                 </span>
             </div>
         </div>
