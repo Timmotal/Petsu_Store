@@ -53,6 +53,8 @@ const Footer = () => {
             </div>
         </div>
         <div className="bottom">
+            <div className="left">
+            </div>
         </div>
     </div>
   )
