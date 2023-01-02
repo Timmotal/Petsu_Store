@@ -42,6 +42,9 @@ const Footer = () => {
                       Reasonable appearance companions oh by remarkably
                   </span>
             </div>
+
+            <div className="item">
+            </div>
         </div>
     </div>
   )
