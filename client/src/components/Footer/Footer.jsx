@@ -45,6 +45,8 @@ const Footer = () => {
 
             <div className="item">
                 <h1>Contact</h1>
+                <span>
+                  </span>
             </div>
         </div>
     </div>
