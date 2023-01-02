@@ -52,6 +52,8 @@ const Footer = () => {
                   </span>
             </div>
         </div>
+        <div className="bottom">
+        </div>
     </div>
   )
 }
