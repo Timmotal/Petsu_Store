@@ -57,6 +57,8 @@ const Footer = () => {
                 <span className="logo">
                     Petsu store
                 </span>
+                <span className="copyright">
+                </span>
             </div>
         </div>
     </div>
