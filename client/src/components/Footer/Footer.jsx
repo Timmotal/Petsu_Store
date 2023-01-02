@@ -35,6 +35,11 @@ const Footer = () => {
             <div className="item">
                 <h1>About</h1>
                   <span>
+                      Civility vicinity graceful is it at.
+                      Improve up at to on mention perhaps raising.
+                      Way building not get formerly her peculiar.
+                      Up uncommonly prosperous sentiments simplicity acceptance to so.
+                      Reasonable appearance companions oh by remarkably
                   </span>
             </div>
         </div>
