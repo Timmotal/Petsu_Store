@@ -61,6 +61,8 @@ const Footer = () => {
                 © Copyright 2023 All Rights Reserved
                 </span>
             </div>
+            <div className="right">
+            </div>
         </div>
     </div>
   )
