@@ -57,7 +57,9 @@ const List = () => {
 
   return (
     <div className="list">
-        
+        {data?.map(item => (
+    
+        ))}
     </div>
   )
 }
