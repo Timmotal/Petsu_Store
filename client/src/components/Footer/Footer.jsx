@@ -58,6 +58,7 @@ const Footer = () => {
                     Petsu store
                 </span>
                 <span className="copyright">
+                © Copyright 2023 All Rights Reserved
                 </span>
             </div>
         </div>
