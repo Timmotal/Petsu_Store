@@ -4,6 +4,10 @@ import "./List.scss";
 
 const List = () => {
 
- 
+    const data = [
+        
+        
+    ]
+
   
 }
