@@ -45,7 +45,14 @@ const List = () => {
             oldPrice: 510,
             price: 500,
         },
-        
+        {
+            id: 6,
+            img: "https://images.pexels.com/photos/6976660/pexels-photo-6976660.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            title: "Skirt",
+            isNew: true,
+            oldPrice: 510,
+            price: 500,
+        },
     ]
 
   
