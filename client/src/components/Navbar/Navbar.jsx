@@ -16,6 +16,8 @@ const Navbar = () => {
   return (
     <div>
         <div className="navbar">
+            <div className="wrapper">
+            </div>
         </div>
 
     </div>
