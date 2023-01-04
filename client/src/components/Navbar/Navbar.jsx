@@ -20,6 +20,10 @@ const Navbar = () => {
                 <div className="left">
                     <div className="item">
                         <img src="/img/United_States.jpg" alt="" />
+                        <KeyboardArrowDownIcon />
+                    </div>
+                    <div className="item">
+                        <span>USD</span>
                     </div>
                       </div>
             </div>
