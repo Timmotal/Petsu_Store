@@ -9,4 +9,10 @@ import "./Navbar.scss"
 import Cart from '../Cart/Cart';
 
 
+const Navbar = () => {
+
+
+
+
+}
 
