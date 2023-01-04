@@ -28,7 +28,42 @@ const Navbar = () => {
                     <div className="item">
                         <Link className='link' to="/products/1">Women</Link>
                     </div>
-                      </div>
+                    <div className="item">
+                        <Link className='link' to="/products/2">Men</Link>
+                    </div>
+                    <div className="item">
+                        <Link className='link' to="/products/3">Children</Link>
+                    </div>
+                    <KeyboardArrowDownIcon />
+                </div>
+                <div className="center">
+                    <Link className='link' to="/">PETSU</Link>
+                </div>
+                <div className="right">
+                <div className="item">
+                    <Link className='link' to="/">Homepage</Link>
+                </div>
+                <div className="item">
+                    <Link className='link' to="/">About</Link>
+                </div>
+                <div className="item">
+                    <Link className='link' to="/">Contact</Link>
+                </div>
+                <div className="item">
+                    <Link className='link' to="/">Store</Link>
+                </div>
+                {/* Icons */}
+                <div className="icons">
+                    <SearchIcon />
+                    <PersonOutlineIcon />
+                    <FavoriteBorderIcon />
+                    <div className="cartIcon" >
+                                                        {/*this toggles the state for open  */}
+             
+                    <span>0</span>
+                    </div>
+                </div>
+                </div>
             </div>
         </div>
 
