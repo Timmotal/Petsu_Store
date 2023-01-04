@@ -19,6 +19,7 @@ const Navbar = () => {
             <div className="wrapper">
                 <div className="left">
                     <div className="item">
+                        <img src="/img/United_States.jpg" alt="" />
                     </div>
                       </div>
             </div>
