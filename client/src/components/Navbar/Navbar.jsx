@@ -59,14 +59,14 @@ const Navbar = () => {
                     <FavoriteBorderIcon />
                     <div className="cartIcon" onClick={() => setOpen(!open)}>
                                                         {/*this toggles the state for open  */}
-             
+                    <ShoppingCartOutlinedIcon />
                     <span>0</span>
                     </div>
                 </div>
                 </div>
             </div>
         </div>
-
+        {open && <Cart />}
     </div>
   )
 }
