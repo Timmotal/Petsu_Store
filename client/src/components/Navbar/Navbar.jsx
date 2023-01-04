@@ -57,7 +57,7 @@ const Navbar = () => {
                     <SearchIcon />
                     <PersonOutlineIcon />
                     <FavoriteBorderIcon />
-                    <div className="cartIcon" >
+                    <div className="cartIcon" onClick={() => setOpen(!open)}>
                                                         {/*this toggles the state for open  */}
              
                     <span>0</span>
