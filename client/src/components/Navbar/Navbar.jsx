@@ -15,6 +15,8 @@ const Navbar = () => {
 
   return (
     <div>
+        <div className="navbar">
+        </div>
 
     </div>
   )
