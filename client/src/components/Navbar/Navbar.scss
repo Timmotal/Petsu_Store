@@ -12,7 +12,11 @@
             font-size: 18px;
         }
     }
-    
+    .left, .right {
+        display: flex;
+        align-items: center;
+        gap: 25px;
+    }
    
   
 
