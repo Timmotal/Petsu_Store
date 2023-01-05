@@ -22,7 +22,14 @@
         letter-spacing: 2px;
     }
     .right {
-       
+        .icons {
+            display: flex;
+            gap: 25px;
+            color: #777;
+            cursor: pointer;
+
+          
+        }
     }
 
 }
