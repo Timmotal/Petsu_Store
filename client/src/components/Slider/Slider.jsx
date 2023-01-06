@@ -34,9 +34,12 @@ const Slider = () => {
             <img src={data[1]} alt="" />
             <img src={data[2]} alt="" />
             <img src={data[3]} alt="" />
-
+            <img src={data[4]} alt="" />
         </div>
 
+        <div className="icons">
+
+        </div>
     </div>
   )
 }
