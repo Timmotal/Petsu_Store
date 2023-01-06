@@ -27,7 +27,12 @@ const Slider = () => {
 
   return ( 
     <div className="slider">
-    
+        <div 
+            className="container"
+            style={{transform: `translateX(-${currentSlide * 100}vw)`}}>
+         
+
+        </div>
 
     </div>
   )
