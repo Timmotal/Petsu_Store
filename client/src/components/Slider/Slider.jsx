@@ -38,7 +38,10 @@ const Slider = () => {
         </div>
 
         <div className="icons">
+            <div className="icon" onClick={prevSlide}>
 
+            </div>
+  
         </div>
     </div>
   )
