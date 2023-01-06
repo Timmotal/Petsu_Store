@@ -16,6 +16,11 @@ const Slider = () => {
         "https://images.unsplash.com/photo-1670115982436-b77e392a39f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1600&q=80"
     ];
 
+    const prevSlide = () => {
+        setCurrentSlide(currentSlide === 0 ? 4 : (prev) => prev - 1);
+        // why not pass currentSlide as prev
+    };
+
   
   
 
