@@ -21,7 +21,10 @@ const Slider = () => {
         // why not pass currentSlide as prev
     };
 
-  
+    const nextSlide = () => {
+        setCurrentSlide(currentSlide === 4 ? 0 : (prev) => prev + 1);
+    };
+
   
 
 
