@@ -41,7 +41,9 @@ const Slider = () => {
             <div className="icon" onClick={prevSlide}>
                 <WestOutlinedIcon />
             </div>
-  
+            <div className="icon" onClick={nextSlide}>
+            <EastOutlinedIcon />
+            </div>
         </div>
     </div>
   )
