@@ -25,6 +25,14 @@ const Slider = () => {
         setCurrentSlide(currentSlide === 4 ? 0 : (prev) => prev + 1);
     };
 
-  
+  return ( 
+    <div className="slider">
+    
+
+    </div>
+  )
+}
+
+export default Slider
 
 
