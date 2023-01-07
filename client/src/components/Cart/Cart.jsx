@@ -45,11 +45,7 @@ const Cart = () => {
         </div>
         <button>PROCEED TO CHECKOUT</button>
         <span className="reset">Reset Cart</span>
-    </div> 
-    // <div>My Beautiful Lady,
-    //      Warren Buffet, Richard Feynman, Elon Musk, Albert Einstein and Now Timmortal
-    //       but you can be different bro
-    // </div>
+    </div>
   )
 }
 
