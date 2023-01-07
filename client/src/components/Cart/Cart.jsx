@@ -39,7 +39,11 @@ const Cart = () => {
                 <DeleteOutlinedIcon className='delete'/>
             </div>
         ))}
-     
+        <div className="total">
+            <span>SUBTOTAL</span>
+ 
+        </div>
+
 
     </div> 
     // <div>My Beautiful Lady,
