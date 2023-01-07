@@ -29,7 +29,10 @@ const Cart = () => {
     <div className="cart">
         <h1>Products in your cart</h1>
         {data?.map(item => (
-          
+            <div className="item" key={item.id}>
+           
+
+            </div>
         ))}
      
 
