@@ -27,7 +27,10 @@ const Cart = () => {
 
   return (
     <div className="cart">
-     
+        <h1>Products in your cart</h1>
+        {data?.map(item => (
+          
+        ))}
      
 
     </div> 
