@@ -32,7 +32,9 @@ const Cart = () => {
             <div className="item" key={item.id}>
                 <img src={item.img} alt="item-img" />
                 <div className="details">
-               
+                    <h1>{item.title}</h1>
+                    <p>{item?.desc?.substring(0,100)}</p>
+                    <div className="price">1 x ${item.price}</div>
                 </div>
 
             </div>
