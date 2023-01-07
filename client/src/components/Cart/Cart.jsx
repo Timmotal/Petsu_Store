@@ -4,5 +4,10 @@ import DeleteOutlinedIcon from "@mui/icons-material/DeleteOutlineOutlined";
 
 const Cart = () => {
 
+    const data = [
+       ,
+       
+    ]
+
 
 
