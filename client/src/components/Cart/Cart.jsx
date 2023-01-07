@@ -25,5 +25,17 @@ const Cart = () => {
         },
     ]
 
+  return (
+    <div className="cart">
+     
+     
+
+    </div> 
+    // <div>My Beautiful Lady,
+    //      Warren Buffet, Richard Feynman, Elon Musk, Albert Einstein and Now Timmortal
+    //       but you can be different bro
+    // </div>
+  )
+}
 
 
