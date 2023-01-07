@@ -30,7 +30,10 @@ const Cart = () => {
         <h1>Products in your cart</h1>
         {data?.map(item => (
             <div className="item" key={item.id}>
-           
+                <img src={item.img} alt="item-img" />
+                <div className="details">
+               
+                </div>
 
             </div>
         ))}
