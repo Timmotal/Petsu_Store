@@ -36,7 +36,7 @@ const Cart = () => {
                     <p>{item?.desc?.substring(0,100)}</p>
                     <div className="price">1 x ${item.price}</div>
                 </div>
-
+                <DeleteOutlinedIcon className='delete'/>
             </div>
         ))}
      
