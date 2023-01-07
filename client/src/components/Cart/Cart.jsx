@@ -41,10 +41,10 @@ const Cart = () => {
         ))}
         <div className="total">
             <span>SUBTOTAL</span>
- 
+            <span>$123</span>
         </div>
-
-
+        <button>PROCEED TO CHECKOUT</button>
+        <span className="reset">Reset Cart</span>
     </div> 
     // <div>My Beautiful Lady,
     //      Warren Buffet, Richard Feynman, Elon Musk, Albert Einstein and Now Timmortal
