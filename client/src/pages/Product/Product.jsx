@@ -5,6 +5,11 @@ import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
 import BalanceIcon from "@mui/icons-material/Balance";
 
 
+const Product = () => { 
 
+
+
+ 
+}
 
 
