@@ -8,6 +8,7 @@ import BalanceIcon from "@mui/icons-material/Balance";
 const Product = () => { 
 
   const [selectedImg, setSelectedImg] = useState(0);
+  const [quantity, setQuantity] = useState(1);
 
 
  
