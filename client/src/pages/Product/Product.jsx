@@ -20,7 +20,10 @@ const Product = () => {
   return (
     <div className="product">
       <div className="left">
-       
+        <div className="images">
+     
+  
+        </div>
       
       </div>
      
