@@ -21,6 +21,7 @@ const Product = () => {
     <div className="product">
       <div className="left">
         <div className="images">
+          <img src={images[0]} alt="" onClick={e=> setSelectedImg(0)} />
      
   
         </div>
