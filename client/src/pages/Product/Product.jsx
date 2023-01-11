@@ -26,7 +26,9 @@ const Product = () => {
           <img src={images[2]} alt="" onClick={e=> setSelectedImg(2)} />
           <img src={images[3]} alt="" onClick={e=> setSelectedImg(3)} />
         </div>
-      
+        <div className="mainImg">
+   
+        </div>
       </div>
      
     </div>
