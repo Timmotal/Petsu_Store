@@ -44,7 +44,10 @@ const Product = () => {
           {quantity}
           <button onClick={() => setQuantity((prev) => prev + 1)}>+</button>
           </div>
-        
+          <button className="add">
+
+          </button>
+         
          
       
         
