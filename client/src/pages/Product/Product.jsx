@@ -31,7 +31,7 @@ const Product = () => {
         </div>
       </div>
       <div className="right">
-    
+        <h1>Title</h1>
 
       
        
