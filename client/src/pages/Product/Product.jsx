@@ -34,7 +34,10 @@ const Product = () => {
         <h1>Title</h1>
         <span className='price'>$168</span>
         <p>
-        
+        Rank tall boy man them over post now.
+        Off into she bed long fat room.
+        Recommend existence curiosity perfectly favourite get eat she why daughters.
+        Not may too nay busy last song must sell.
         </p>
        
          
