@@ -39,7 +39,12 @@ const Product = () => {
         Recommend existence curiosity perfectly favourite get eat she why daughters.
         Not may too nay busy last song must sell.
         </p>
-       
+        <div className="quantity">
+    
+     
+
+          </div>
+        
          
       
         
