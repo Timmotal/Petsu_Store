@@ -30,7 +30,15 @@ const Product = () => {
           <img src={images[selectedImg]} alt="" />
         </div>
       </div>
-     
+      <div className="right">
+    
+
+      
+       
+         
+      
+        
+      </div>
     </div>
   )
 }
