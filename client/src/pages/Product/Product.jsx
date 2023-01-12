@@ -33,7 +33,9 @@ const Product = () => {
       <div className="right">
         <h1>Title</h1>
         <span className='price'>$168</span>
-      
+        <p>
+        
+        </p>
        
          
       
