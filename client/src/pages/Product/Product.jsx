@@ -40,7 +40,7 @@ const Product = () => {
         Not may too nay busy last song must sell.
         </p>
         <div className="quantity">
-    
+          <button onClick={() => setQuantity((prev) => (prev === 1 ? 1 : prev - 1))}>-</button>
      
 
           </div>
