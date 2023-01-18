@@ -61,7 +61,13 @@ const Product = () => {
             <span>Vendor: Tom Hilfiger</span>
           </div>
           <hr />
-    
+          <div className="details">
+            <span>DESCRIPTION</span>
+            <hr />
+            <span>ADDITIONAL INFORMATION</span>
+            <hr />
+            <span>FAQ</span>
+          </div>
       </div>
     </div>
   )
