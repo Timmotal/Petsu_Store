@@ -60,7 +60,7 @@ const Product = () => {
             <span>Tag: T-Shirt, Women, Top</span>
             <span>Vendor: Tom Hilfiger</span>
           </div>
-    
+          <hr />
     
       </div>
     </div>
