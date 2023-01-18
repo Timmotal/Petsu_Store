@@ -55,7 +55,11 @@ const Product = () => {
               <BalanceIcon /> ADD TO COMPARE
             </div>
           </div>
-        
+          <div className="info">
+            <span>Product Type: T-Shirt</span>
+            <span>Tag: T-Shirt, Women, Top</span>
+            <span>Vendor: Tom Hilfiger</span>
+          </div>
     
     
       </div>
