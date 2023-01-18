@@ -37,7 +37,7 @@ const Product = () => {
         Rank tall boy man them over post now.
         Off into she bed long fat room.
         Recommend existence curiosity perfectly favourite get eat she why daughters.
-        Not may too nay busy last song must sell.
+        Not may too nay busy last song must sell .
         </p>
         <div className="quantity">
           <button onClick={() => setQuantity((prev) => (prev === 1 ? 1 : prev - 1))}>-</button>
@@ -47,10 +47,17 @@ const Product = () => {
           <button className="add">
 
           </button>
-         
-         
-      
+          <div className="links">
+            <div className="item">
+              <FavoriteBorderIcon /> ADD TO YOUR WISHLIST
+            </div>
+            <div className="item">
+              <BalanceIcon /> ADD TO COMPARE
+            </div>
+          </div>
         
+    
+    
       </div>
     </div>
   )
