@@ -4,6 +4,8 @@ import List from '../../components/List/List';
 import useFetch from '../../hooks/useFetch';
 import "./Products.scss";
 
+const Products = () => {
+  
 
 
 export default Products
