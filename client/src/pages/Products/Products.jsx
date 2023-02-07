@@ -11,6 +11,7 @@ const Products = () => {
   // console.log(param);
 
   const [maxPrice, setMaxPrice] = useState(1000);
+  const [sort, setSort] = useState(null);
  
 
 export default Products
