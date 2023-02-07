@@ -6,6 +6,9 @@ import "./Products.scss";
 
 const Products = () => {
   
+  const catId = parseInt(useParams().id);
+  // const param = useParams();
+  // console.log(param);
 
 
 export default Products
