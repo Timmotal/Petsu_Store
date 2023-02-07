@@ -19,6 +19,7 @@ const Products = () => {
   // console.log(data);
 
   const handleChange = (e) => {
+    const value = e.target.value;
 
   
 
