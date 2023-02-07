@@ -10,5 +10,7 @@ const Products = () => {
   // const param = useParams();
   // console.log(param);
 
+  const [maxPrice, setMaxPrice] = useState(1000);
+ 
 
 export default Products
