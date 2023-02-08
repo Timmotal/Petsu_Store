@@ -23,7 +23,11 @@ const Products = () => {
     const isChecked = e.target.checked;
 
     setSelectedSubCats(
-   
+      isChecked ?
+      [...selectedSubCats, value]
+      : 
+      selectedSubCats.filter((item) => item !== value)
+    )
   }
 
 
