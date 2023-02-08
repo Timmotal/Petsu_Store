@@ -30,8 +30,11 @@ const Products = () => {
     )
   }
 
+  // console.log(selectedSubCats);
 
+  return (  
  
+)
 }
 
 export default Products
