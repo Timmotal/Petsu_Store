@@ -35,7 +35,13 @@ const Products = () => {
   return (  
   <div className="products">
   <div className="left">
-
+    <div className="filterItem"> 
+    
+      
+    
+ 
+    </div>
+v>
    
   </div>
  
