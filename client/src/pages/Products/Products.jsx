@@ -64,7 +64,9 @@ const Products = () => {
     </div>
     <div className="filterItem">
       <h2>Filter By Price</h2>
+      <div className="inputItem">
      
+      </div>
     </div>
    
   </div>
