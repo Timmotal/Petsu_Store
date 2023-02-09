@@ -39,7 +39,10 @@ const Products = () => {
       <h2>Product Categories</h2>
       
       {data?.map(item => (
+        <div className="inputItem" key={item?.id}>
       
+
+      </div>
       ))}
  
     </div>
