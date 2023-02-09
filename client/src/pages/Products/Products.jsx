@@ -63,6 +63,7 @@ const Products = () => {
       </div> */}
     </div>
     <div className="filterItem">
+      <h2>Filter By Price</h2>
      
     </div>
    
