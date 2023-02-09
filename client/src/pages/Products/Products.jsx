@@ -38,7 +38,9 @@ const Products = () => {
     <div className="filterItem"> 
       <h2>Product Categories</h2>
       
-    
+      {data?.map(item => (
+      
+      ))}
  
     </div>
 v>
