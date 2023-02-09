@@ -40,7 +40,12 @@ const Products = () => {
       
       {data?.map(item => (
         <div className="inputItem" key={item?.id}>
-      
+        <input 
+          type="checkbox" 
+          id={item?.id} 
+          value={item?.id}
+          onChange={handleChange} 
+        />
 
       </div>
       ))}
