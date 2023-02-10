@@ -66,6 +66,7 @@ const Products = () => {
       <h2>Filter By Price</h2>
       <div className="inputItem">
         <span>0</span>
+        <input type="range" min={0} max={1000} onChange={(e)=> setMaxPrice(e.target.value)} />
      
       </div>
     </div>
