@@ -70,7 +70,10 @@ const Products = () => {
         <span>{maxPrice}</span>
       </div>
     </div>
-   
+    <div className="filterItem">
+     
+     
+    </div>
   </div>
  
 </div>
