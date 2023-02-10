@@ -73,6 +73,7 @@ const Products = () => {
     <div className="filterItem">
       <h2>Sort By</h2>
       <div className="inputItem">
+        <input type="radio" id='asc' value="asc" name="price" onChange={e=>setSort("asc")}/>
       </div>
     
     </div>
