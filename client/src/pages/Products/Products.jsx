@@ -74,10 +74,15 @@ const Products = () => {
       <h2>Sort By</h2>
       <div className="inputItem">
         <input type="radio" id='asc' value="asc" name="price" onChange={e=>setSort("asc")}/>
+        <label htmlFor="asc">Price (Lowest first)</label>
       </div>
     
     </div>
   </div>
+  <div className="right">
+   
+    
+    </div>
  
 </div>
 )
