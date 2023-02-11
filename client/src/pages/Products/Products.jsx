@@ -81,7 +81,8 @@ const Products = () => {
   </div>
   <div className="right">
     <img 
-     
+      src="https://images.pexels.com/photos/9969460/pexels-photo-9969460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+   
   
     />
     
