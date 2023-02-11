@@ -80,7 +80,10 @@ const Products = () => {
     </div>
   </div>
   <div className="right">
-   
+    <img 
+     
+  
+    />
     
     </div>
  
