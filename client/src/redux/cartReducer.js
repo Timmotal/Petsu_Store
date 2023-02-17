@@ -11,5 +11,6 @@ products: []
 }
 
 export const cartSlice = createSlice({
- 
+  name: 'cart',
+  initialState,
  
