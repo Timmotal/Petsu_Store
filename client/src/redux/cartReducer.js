@@ -10,4 +10,6 @@ const initialState = {
 products: []
 }
 
+export const cartSlice = createSlice({
+ 
  
