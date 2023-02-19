@@ -9,7 +9,8 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
 
     //refactoring our code base because we use useEffect a lot of times .....
 
-    ;
+    useEffect(() => {
+        [url]);
 
 }
 
