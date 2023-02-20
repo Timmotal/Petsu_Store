@@ -31,7 +31,7 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
         }
         setLoading(false);
       };
-  
+      fetchData();
     }, [url]);
 
 
