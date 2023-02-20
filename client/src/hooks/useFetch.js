@@ -34,7 +34,7 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
       fetchData();
     }, [url]);
 
-
+    return { data, loading, error };
 }
 
 
