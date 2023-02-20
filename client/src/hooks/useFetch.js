@@ -23,7 +23,7 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
           //   }
             );
 
-          
+            setData(res.data.data)
           //   console.log(res);
         }}
 
