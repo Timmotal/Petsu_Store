@@ -37,4 +37,4 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
     return { data, loading, error };
 }
 
-
+export default useFetch
