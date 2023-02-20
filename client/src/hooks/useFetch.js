@@ -29,7 +29,7 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
           setError(true);
             console.log(error.response.data);
         }
-
+        setLoading(false);
       };
   
     }, [url]);
