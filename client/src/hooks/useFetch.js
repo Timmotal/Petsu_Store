@@ -27,7 +27,7 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
           //   console.log(res);
         } catch (error) {
           setError(true);
-     
+            console.log(error.response.data);
         }
 
       };
