@@ -11,7 +11,17 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
 
     useEffect(() => {
       const fetchData = async () => { 
+        try {
      
+          //   const res = await makeRequest.get(process.env.REACT_APP_API_URL + `/products?populate=*&[filters][type][$eq]=${type}`, 
+          
+          //     ,{
+          //       headers: {
+          //           Authorization: "bearer " + process.env.REACT_APP_API_TOKEN,
+          //       }
+          //       // this is how we are fetching data using Strapi, without header API wont allow you to fetch data
+          //   }
+            );
 
           
           //   console.log(res);
