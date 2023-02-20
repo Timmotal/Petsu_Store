@@ -14,7 +14,7 @@ const useFetch = (url) => { // here we used "ASYNC" twice, it gave us errors
         try {
           setLoading(true)
           //   const res = await makeRequest.get(process.env.REACT_APP_API_URL + `/products?populate=*&[filters][type][$eq]=${type}`, 
-          
+            const res = await makeRequest.get(url
           //     ,{
           //       headers: {
           //           Authorization: "bearer " + process.env.REACT_APP_API_TOKEN,
