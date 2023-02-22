@@ -12,6 +12,6 @@ import {
   PAUSE,
   PERSIST,
   PURGE,
- 
+  REGISTER,
 } from 'redux-persist'
 
