@@ -11,7 +11,7 @@ import {
   REHYDRATE,
   PAUSE,
   PERSIST,
-
+  PURGE,
  
 } from 'redux-persist'
 
