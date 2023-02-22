@@ -10,7 +10,7 @@ import {
   FLUSH,
   REHYDRATE,
   PAUSE,
-
+  PERSIST,
 
  
 } from 'redux-persist'
