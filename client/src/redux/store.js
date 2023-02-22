@@ -7,7 +7,7 @@ import cartReducer from './cartReducer';
 import {
   persistStore,
   persistReducer,
-
+  FLUSH,
 
 ,
 
