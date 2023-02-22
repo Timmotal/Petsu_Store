@@ -5,6 +5,7 @@ import cartReducer from './cartReducer';
 //     reducer: {cart: cartReducer},
 // }) 
 import {
+  persistStore,
 
 
  
