@@ -28,5 +28,8 @@ const persistConfig = {
   storage,
 }
 
+const persistedReducer = persistReducer(persistConfig, cartReducer) //we dont have any other reducer we can pass in cartReducer
+
+
 
 
