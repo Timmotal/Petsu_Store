@@ -14,4 +14,14 @@ import {
   PURGE,
   REGISTER,
 } from 'redux-persist'
+import storage from 'redux-persist/lib/storage'
+// import { PersistGate } from 'redux-persist/integration/react' 
+//we are going to be using this in our index file ( what exactly i do not know)
+
+// import App from './App'
+// import rootReducer from './reducers' // we do not need these
+// WE ARE GOING TO WRAP OUR APP USING INDEX JS
+
+
+
 
