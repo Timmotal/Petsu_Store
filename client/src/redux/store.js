@@ -23,7 +23,7 @@ import storage from 'redux-persist/lib/storage'
 // WE ARE GOING TO WRAP OUR APP USING INDEX JS
 
 const persistConfig = {
-
+  key: 'root',
 
 
 }
