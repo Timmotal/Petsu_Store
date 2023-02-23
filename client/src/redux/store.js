@@ -22,6 +22,11 @@ import storage from 'redux-persist/lib/storage'
 // import rootReducer from './reducers' // we do not need these
 // WE ARE GOING TO WRAP OUR APP USING INDEX JS
 
+const persistConfig = {
+
+
+
+}
 
 
 
