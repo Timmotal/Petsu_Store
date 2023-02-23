@@ -30,6 +30,9 @@ const persistConfig = {
 
 const persistedReducer = persistReducer(persistConfig, cartReducer) //we dont have any other reducer we can pass in cartReducer
 
+export const store = configureStore({
+
+})
 
 
 
