@@ -32,7 +32,7 @@ const persistedReducer = persistReducer(persistConfig, cartReducer) //we dont ha
 
 export const store = configureStore({
   reducer: {
-
+    cart: persistedReducer
 },
    
 })
