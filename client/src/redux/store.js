@@ -34,6 +34,7 @@ export const store = configureStore({
   reducer: {
     cart: persistedReducer
 },
+  middleware: (getDefaultMiddleware) =>
    
 })
 
